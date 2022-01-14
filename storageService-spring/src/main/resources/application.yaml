@@ -1,0 +1,21 @@
+
+local-storage:
+  enable: true
+  path: "/mnt/storage"
+  web:
+    enable: true
+    url: "https://www.example.com/cdn/"
+
+azure-blob:
+    enable: false
+
+aws-s3:
+  enable: false
+  accesskey: "ACCESSKEY"
+  secretkey: "SECRETKEY"
+  bucket: "BUCKET_NAME"
+  region: "regionname"
+
+
+
+
