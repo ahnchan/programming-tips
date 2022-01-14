@@ -6,9 +6,9 @@ Programming Tips
 
 
 # Java/Spring
-[JSON Diff](./tree/main/jdondiff-java): 두개의 객체를 비교하여 다른 부분을 찾는다. key, before, atfer로 찾아준다. (객체를 JSON, Map형태로 변경하여 비교(diff)하였다.)
+[JSON Diff](https://github.com/ahnchan/programming-tips/tree/main/jdondiff-java): 두개의 객체를 비교하여 다른 부분을 찾는다. key, before, atfer로 찾아준다. (객체를 JSON, Map형태로 변경하여 비교(diff)하였다.)
 
-[Storage Service](./tree/main/springService-spring): 파일을 저장,읽기할때 Storage의 위치(Local, Cloud 등)과 상관없이 저장, 관리할 수 있도록 한다.
+[Storage Service](https://github.com/ahnchan/programming-tips/tree/main/springService-spring): 파일을 저장,읽기할때 Storage의 위치(Local, Cloud 등)과 상관없이 저장, 관리할 수 있도록 한다.
 
 
 # Python/Jupyter Notebook
